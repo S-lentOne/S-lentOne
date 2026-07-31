@@ -8,5 +8,5 @@
 -->
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/f5/2a/a0/f52aa00a3f057dfb8f96e90d60d88b53.jpg" alt="Dried & Chopped" height=50% width=50%>
+  <img src="https://i.pinimg.com/736x/f5/2a/a0/f52aa00a3f057dfb8f96e90d60d88b53.jpg" alt="Dried & Chopped" height=40% width=40%>
 </p>
