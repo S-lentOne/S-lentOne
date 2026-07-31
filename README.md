@@ -1,16 +1,12 @@
-## Hi there 👋
+<!--## Hi
+## I'm SilentOne, 19 year old CS Major, working with Rust, C++, Typescript and more.  
 
-<!--
-**S-lentOne/S-lentOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Currently working on -
+- VisualRAG
+- NEEngine
+- ~~4D-OV~~
 -->
+
+<p align="center">
+  <img src="https://i.pinimg.com/736x/f5/2a/a0/f52aa00a3f057dfb8f96e90d60d88b53.jpg" alt="Dried & Chopped">
+</p>
