@@ -121,18 +121,27 @@ RAG
 
 <td width="50%">
 
-### `NETWORK DASHBOARD`
+### `NETWORK DASHBOARD // TCP MONITOR`
 
-Monitoring and network tooling designed for lightweight hardware.
+A lightweight client-server network monitoring system built with **Bun + TypeScript**, running on a Raspberry Pi 3B+.
 
 ```text
-Raspberry Pi
-     +
-   Node.js
-     +
-   SQLite
-```
+CLIENTS
+   │
+   │ TCP
+   ▼
+RASPBERRY PI
+   │
+   ├─ DEVICE DATA
+   ├─ PACKET LOGS
+   └─ REAL-TIME STATE
+   │
+   ▼
+WEB DASHBOARD
 
+CORE
+TCP Sockets · Client/Server · JSON · Packet Processing
+```
 </td>
 
 </tr>
@@ -162,16 +171,26 @@ RESPONSE
 
 <td width="50%">
 
-### `CYBERSECURITY LAB`
+### `YAC // WAYLAND PROJECT`
 
-Security-focused experiments involving:
+**Yet Another Wayland Compositor**
 
-* Malware analysis
-* Threat intelligence
-* Vulnerability scanning
-* Sandboxing
-* Detection engineering
+An experimental compositor built to understand how compositors such as Hyprland, Sway, and i3 operate beneath the surface.
 
+```text
+PROJECT STATUS
+    [ ON HOLD ]
+
+CURRENT OPERATION
+    WAYLAND ARCHITECTURE STUDY
+
+REACTIVATION
+    01.12.2026
+
+OBJECTIVE
+    UNDERSTAND THE SYSTEM
+    BEFORE REBUILDING IT
+```
 </td>
 
 </tr>
@@ -204,7 +223,8 @@ SECONDARY OBJECTIVE:
 │ SYSTEM MESSAGE                                             │
 ├────────────────────────────────────────────────────────────┤
 │                                                            │
-│ Hi, I'm Mika or SilentOne, It took me a while to make this.|
+│ Hi, I'm SilentOne, also known as Mika, It took me a while  |
+| to make this, and I hope whoever sees this likes it!       |
 | You are free to copy / use this.                           |
 │                                                            │
 | Inspirations were taken from Tokyo Ghoul, Neon Genesis     |
